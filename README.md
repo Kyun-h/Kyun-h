@@ -5,8 +5,6 @@
   <img src="https://github.com/Kyun-h/asset/blob/main/DK.png?raw=true" width="300"/>
 </p>
 
-<p align="center">Dev_Kyun</p>
-
 ---
 
 ### Introduce
