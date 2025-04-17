@@ -1,10 +1,10 @@
 <!-- dev.Kyun 로고 이미지 -->
 <p align="center">
-  <img src="https://github.com/Kyun-h/asset/blob/main/DK.png?raw=true" width="200"/>
+  <img src="https://github.com/Kyun-h/asset/blob/main/DK.png?raw=true" width="300"/>
 </p>
 
 <h1 align="center">HSK</h1>
-<p align="center">Backend Develop</p>
+<p align="center">Dev_Kyun</p>
 
 ---
 
