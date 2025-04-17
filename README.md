@@ -21,6 +21,12 @@
 
 ---
 
+### Baekjoon Tier
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdtkdrbs)
+
+---
+
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,11 +43,6 @@
 
 ---
 
-### Baekjoon Tier
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdtkdrbs)
-
----
 
 ### GitHub Stats
 
