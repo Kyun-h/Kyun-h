@@ -1,6 +1,6 @@
 <!-- dev.Kyun 로고 이미지 -->
 <p align="center">
-  <img src=""C:\Users\HSK\OneDrive\사진\개발\DK.png""/>
+  <img src=""https://github.com/Kyun-h/asset/blob/main/DK.png?raw=true""/>
 </p>
 
 <h1 align="center">Hi, I'm Kyun</h1>
