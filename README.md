@@ -1,4 +1,5 @@
 <!-- dev.Kyun 로고 이미지 -->
+
 ---
 <p align="center">
   <img src="https://github.com/Kyun-h/asset/blob/main/DK.png?raw=true" width="300"/>
@@ -31,7 +32,7 @@
 ### GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyun-h&show_icons=true&theme=tokyonight)
 
 
 ---
@@ -39,4 +40,4 @@
 
 ### Contact
 
-[![Gmail](https://img.shields.io/badge/email-hsk050124@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.kyun@gmail.com)
+[![Gmail](https://img.shields.io/badge/email-hsk050124@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hsk050124@gmail.com)
