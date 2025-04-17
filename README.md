@@ -15,6 +15,12 @@
 
 ---
 
+### Contact
+
+- Email ghkdtkdrbs@knu.ac.kr
+
+---
+
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -27,7 +33,7 @@
 
 ### 수상
 
-- 제4회 청소년 ICT 창업가캠프 은상 (2022)
+> 제4회 청소년 ICT 창업가캠프 은상 (2022)
 
 ---
 
@@ -43,10 +49,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyun-h&show_icons=true&theme=tokyonight)
 
 
----
-
-
-### Contact
-
-[![Gmail](https://img.shields.io/badge/email-hsk050124@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hsk050124@gmail.com)<br/>
-[![Gmail](https://img.shields.io/badge/email-ghkdtkdrbs@knu.ac.kr-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ghkdtkdrbs@knu.ac.kr)
+--- 
