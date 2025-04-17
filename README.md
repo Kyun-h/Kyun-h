@@ -29,6 +29,14 @@
 
 - 제4회 청소년 ICT 창업가캠프 은상 (2022)
 
+---
+
+### Baekjoon Tier
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdtkdrbs)
+
+---
+
 ### GitHub Stats
 
 
