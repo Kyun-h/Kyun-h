@@ -24,12 +24,19 @@
 
 ---
 
+### 수상
+
+- 제4회 청소년 ICT 창업가캠프 은상 (2022)
+
 ### GitHub Stats
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
+
 ---
+
 
 ### Contact
 
-[![Gmail](https://img.shields.io/badge/email-dev.kyun@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.kyun@gmail.com)
+[![Gmail](https://img.shields.io/badge/email-hsk050124@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.kyun@gmail.com)
