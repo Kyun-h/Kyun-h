@@ -49,3 +49,4 @@
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/email-hsk050124@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hsk050124@gmail.com)
+[![Gmail](https://img.shields.io/badge/email-ghkdtkdrbs@knu.ac.kr-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ghkdtkdrbs@knu.ac.kr)
