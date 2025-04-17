@@ -3,8 +3,8 @@
   <img src="https://github.com/Kyun-h/asset/blob/main/DK.png?raw=true" width="200"/>
 </p>
 
-<h1 align="center">Hi, I'm Kyun</h1>
-<p align="center">Backend Developer who loves clean architecture & code efficiency</p>
+<h1 align="center">HSK</h1>
+<p align="center">Backend Develop</p>
 
 ---
 
